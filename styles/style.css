@@ -5,6 +5,7 @@
 
 /* Garante que a altura da página seja 100% */
 html, body {
+    cursor: url('../images/pena\ mouse.png'), auto;
     height: 100%;
     margin: 0;
     padding: 0;
